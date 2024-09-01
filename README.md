@@ -33,5 +33,7 @@ Olá! Sou um desenvolvedor apaixonado por tecnologia desde 2019. Ao longo da min
 
 ---
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffelipem7k&count_bg=%236D50FF&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Visualiza%C3%A7%C3%B5es&edge_flat=false)](https://hits.seeyoufarm.com)
+
 🌟 Sinta-se à vontade para explorar meus repositórios e conectar-se comigo. Estou sempre aberto a colaborações e novas oportunidades!
 
