@@ -37,8 +37,8 @@
 
 ## 🌐 Como me encontrar
 
-- **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/felipe-machado-da-silveira-380306182/)  
-- **Email:** [seu-email@exemplo.com](mailto:felipems3004@gmail.com)  
+- **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/felipe-machado-da-silveira-380306182/)  
+- **Email:** [felipems3004@gmail.com](mailto:felipems3004@gmail.com)  
 - **Discord:** *@potter7k*  
 
 ---
