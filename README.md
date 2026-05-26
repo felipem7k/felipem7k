@@ -1,50 +1,103 @@
-# 👋 Olá, eu sou o Felipe!
+<div align="center">
 
-🎯 **Programador e entusiasta de tecnologia** apaixonado por aprender, criar soluções inovadoras e explorar novas ideias. Trabalho com desenvolvimento de scripts para [FiveM](https://fivem.net/) e sou o responsável pela [DK Development](#).
+# Felipe Machado
 
----
+Backend Developer • SaaS • FiveM
 
-## 🚀 Sobre mim
+Construindo sistemas, automações e produtos digitais desde 2019.
 
-- 🌍 Localização: **Santa Catarina, Brasil**  
-- 💻 Especialidades: **Lua, PHP, JavaScript**  
-- 🛠️ Trabalho atual: **Desenvolvimento de sistemas e scripts para servidores de FiveM**  
-- 🎓 Em busca de conhecimento e crescimento como programador full stack.  
-- ✍️ Interesses: Aprender novas tecnologias, criar projetos únicos e me desafiar constantemente.  
+<br>
 
----
+[![Website](https://img.shields.io/badge/Website-dkscripts.com.br-111111?style=for-the-badge)](https://dkscripts.com.br)
+[![Docs](https://img.shields.io/badge/Docs-online-1f1f1f?style=for-the-badge)](https://docs.dkscripts.com.br)
+[![Discord](https://img.shields.io/badge/Discord-community-2b2b2b?style=for-the-badge)](https://discord.gg/NJjUn8Ad3P)
+[![GitHub](https://img.shields.io/badge/GitHub-potter7k-000000?style=for-the-badge)](https://github.com/felipem7k)
 
-## 🛠️ Minhas Tecnologias
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![LUA](https://img.shields.io/badge/LUA-2C2D72?style=flat&logo=lua&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+</div>
 
 ---
 
-## 📊 Minhas Estatísticas
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=felipem7k&layout=compact&theme=radical)
+## Sobre
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=felipem7k&show_icons=true&theme=radical)
+Atualmente focado no desenvolvimento de:
+
+- Sistemas de licenciamento
+- APIs e dashboards
+- Scripts para FiveM
+- Automação de processos
+- Infraestrutura e deploy
+- Ferramentas SaaS
+
+Gosto de construir produtos pensando em:
+
+- Performance
+- Escalabilidade
+- UX
+- Organização
+- Arquitetura limpa
 
 ---
 
-## 🌐 Como me encontrar
+## Stack
 
-- **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/felipe-machado-da-silveira-380306182/)  
-- **Email:** [felipems3004@gmail.com](mailto:felipems3004@gmail.com)  
-- **Discord:** *@potter7k*  
+### Back-end
+![PHP](https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-111111?style=flat-square&logo=laravel)
+![Lua](https://img.shields.io/badge/Lua-111111?style=flat-square&logo=lua)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql)
+
+### Front-end
+![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react)
+![Vite](https://img.shields.io/badge/Vite-111111?style=flat-square&logo=vite)
+![Tailwind](https://img.shields.io/badge/Tailwind-111111?style=flat-square&logo=tailwindcss)
+
+### Infraestrutura
+![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-111111?style=flat-square&logo=cloudflare)
 
 ---
 
-✨ *"A tecnologia não é apenas minha profissão, é minha paixão."*  
+## Projetos
+
+### DK Development
+Loja e ecossistema de scripts para FiveM.
+
+> +1400 licenças vendidas  
+> foco em performance, UX e integração entre sistemas.
+
+### Principais projetos
+
+- Sistema de licenciamento
+- Dashboard de gerenciamento
+- APIs de autenticação
+- Scripts sincronizados
+- Sistemas administrativos
+- Automação de pagamentos
+
+---
+
+## Open Source
+
+### dk_snippets
+Coleção de utilitários reutilizáveis para projetos FiveM.
+
+### dk_coords
+Ferramenta para coleta de coordenadas e criação de rotas.
+
+---
+
+## Contato
+
+- Website: https://dkscripts.com.br
+- Docs: https://docs.dkscripts.com.br
+- GitHub: https://github.com/felipem7k
+
+---
+
+<div align="center">
+
+building systems, not just scripts.
+
+</div>
