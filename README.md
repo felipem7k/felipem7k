@@ -11,7 +11,7 @@ Construindo sistemas, automações e produtos digitais desde 2019.
 [![Website](https://img.shields.io/badge/Website-dkscripts.com.br-111111?style=for-the-badge)](https://dkscripts.com.br)
 [![Docs](https://img.shields.io/badge/Docs-online-1f1f1f?style=for-the-badge)](https://docs.dkscripts.com.br)
 [![Discord](https://img.shields.io/badge/Discord-community-2b2b2b?style=for-the-badge)](https://discord.gg/NJjUn8Ad3P)
-[![GitHub](https://img.shields.io/badge/GitHub-potter7k-000000?style=for-the-badge)](https://github.com/felipem7k)
+[![GitHub](https://img.shields.io/badge/GitHub-felipem7k-000000?style=for-the-badge)](https://github.com/felipem7k)
 
 </div>
 
