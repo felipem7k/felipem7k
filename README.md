@@ -4,7 +4,8 @@ Backend Developer • SaaS • FiveM
 
 Construindo sistemas, automações e produtos digitais desde 2021.
 
-[![Website](https://img.shields.io/badge/Website-dkscripts.com.br-111111?style=for-the-badge)](https://dkscripts.com.br)
+[![Portfolio](https://img.shields.io/badge/Portfolio-felipems.dev-2563EB?style=for-the-badge)](https://felipems.dev)
+[![DK Scripts](https://img.shields.io/badge/DK_Scripts-dkscripts.com.br-111111?style=for-the-badge)](https://dkscripts.com.br)
 [![Docs](https://img.shields.io/badge/Docs-online-1f1f1f?style=for-the-badge)](https://docs.dkscripts.com.br)
 [![Discord](https://img.shields.io/badge/Discord-community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NJjUn8Ad3P)
 [![GitHub](https://img.shields.io/badge/GitHub-felipem7k-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felipem7k)
@@ -14,6 +15,8 @@ Construindo sistemas, automações e produtos digitais desde 2021.
 ## Sobre
 
 Fundador e mantenedor da **[DK Development](https://github.com/dk-scripts)** — loja e ecossistema de produtos para servidores FiveM, com mais de 1700 licenças vendidas. Toda a operação técnica é minha: desenvolvimento, arquitetura, suporte e infraestrutura.
+
+🔗 Portfólio completo: **[felipems.dev](https://felipems.dev)**
 
 Atualmente focado no desenvolvimento de:
 
@@ -87,7 +90,8 @@ Os projetos abertos da DK Development ficam na organization: **[github.com/dk-sc
 
 ## Contato
 
-- Website: [dkscripts.com.br](https://dkscripts.com.br)
+- Portfólio: [felipems.dev](https://felipems.dev)
+- DK Scripts: [dkscripts.com.br](https://dkscripts.com.br)
 - Docs: [docs.dkscripts.com.br](https://docs.dkscripts.com.br)
 - GitHub: [github.com/felipem7k](https://github.com/felipem7k)
 
